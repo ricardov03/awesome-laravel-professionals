@@ -39,3 +39,6 @@ GitHub Accounts linked to the Name. Just my top 3 package selections.
 
 ## Not Laravel, but you should Know those people :) PHP
 - [Jordi Boggiano](https://github.com/Seldaek) 🇨🇭 - Do you know Composer? Yes, he put a lot of code there.
+
+## New Talents
+- [Francisco Madeira](https://github.com/xico2k) - He just appears to be like the next generation Artisan. He's working with Nuno Maduro in [Termwind](https://github.com/nunomaduro/termwind). He's also the responsible for the integration of i18n between Laravel and Vue with [laravel-vue-i18n](https://github.com/xiCO2k/laravel-vue-i18n). 
